@@ -1,0 +1,154 @@
+location,latitude,longitude,date,time,felt_temp_c,precipitation_prob,windspeed_km_h,day_time,time_of_day
+"New York City, United States",40.71427,-74.00597,2022-08-09,15:00:00,34,1,16.3,False,afternoon
+"New York City, United States",40.71427,-74.00597,2022-08-09,21:00:00,36,1,13.5,False,evening
+"New York City, United States",40.71427,-74.00597,2022-08-10,09:00:00,25,1,9.5,False,morning
+"Edinburgh, United Kingdom",55.95206,-3.19648,2022-08-09,15:00:00,20,0,17.5,True,afternoon
+"Edinburgh, United Kingdom",55.95206,-3.19648,2022-08-09,21:00:00,15,0,8.3,True,evening
+"Edinburgh, United Kingdom",55.95206,-3.19648,2022-08-10,09:00:00,19,0,8.7,True,morning
+"Los Angeles, United States",34.05223,-118.24368,2022-08-09,15:00:00,25,0,1.9,False,afternoon
+"Los Angeles, United States",34.05223,-118.24368,2022-08-09,21:00:00,32,0,13.3,False,evening
+"Los Angeles, United States",34.05223,-118.24368,2022-08-10,09:00:00,22,0,2.1,False,morning
+"London, United Kingdom",51.50853,-0.12574,2022-08-09,15:00:00,24,0,13.0,True,afternoon
+"London, United Kingdom",51.50853,-0.12574,2022-08-09,21:00:00,17,0,10.8,True,evening
+"London, United Kingdom",51.50853,-0.12574,2022-08-10,09:00:00,22,0,5.9,True,morning
+"Dublin, Ireland",53.33306,-6.24889,2022-08-09,15:00:00,23,0,11.8,True,afternoon
+"Dublin, Ireland",53.33306,-6.24889,2022-08-09,21:00:00,18,0,6.7,True,evening
+"Dublin, Ireland",53.33306,-6.24889,2022-08-10,09:00:00,20,0,5.1,True,morning
+"Dublin, Ireland",53.33306,-6.24889,2022-08-09,15:00:00,23,0,11.8,True,afternoon
+"Dublin, Ireland",53.33306,-6.24889,2022-08-09,21:00:00,18,0,6.7,True,evening
+"Dublin, Ireland",53.33306,-6.24889,2022-08-10,09:00:00,20,0,5.1,True,morning
+"London, United Kingdom",51.50853,-0.12574,2022-08-09,15:00:00,24,0,13.0,True,afternoon
+"London, United Kingdom",51.50853,-0.12574,2022-08-09,21:00:00,17,0,10.8,True,evening
+"London, United Kingdom",51.50853,-0.12574,2022-08-10,09:00:00,22,0,5.9,True,morning
+"Sydney, Australia",-33.86785,151.20732,2022-08-09,15:00:00,8,1,18.6,False,afternoon
+"Sydney, Australia",-33.86785,151.20732,2022-08-09,21:00:00,8,1,16.0,False,evening
+"Sydney, Australia",-33.86785,151.20732,2022-08-10,09:00:00,11,1,6.4,False,morning
+"Stockholm, Sweden",59.32938,18.06871,2022-08-09,15:00:00,21,0,8.6,True,afternoon
+"Stockholm, Sweden",59.32938,18.06871,2022-08-09,21:00:00,15,0,9.4,True,evening
+"Stockholm, Sweden",59.32938,18.06871,2022-08-10,09:00:00,19,0,12.7,True,morning
+"Stockholm, Sweden",59.32938,18.06871,2022-08-09,15:00:00,21,0,8.6,True,afternoon
+"Stockholm, Sweden",59.32938,18.06871,2022-08-09,21:00:00,15,0,9.4,True,evening
+"Stockholm, Sweden",59.32938,18.06871,2022-08-10,09:00:00,19,0,12.7,True,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-09,15:00:00,8,12,4.3,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-09,21:00:00,8,12,5.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-10,09:00:00,7,12,5.5,False,morning
+"Las Vegas, United States",36.17497,-115.13722,2022-08-10,09:00:00,31,57,4.8,False,morning
+"Las Vegas, United States",36.17497,-115.13722,2022-08-10,15:00:00,32,57,5.2,False,afternoon
+"Las Vegas, United States",36.17497,-115.13722,2022-08-10,21:00:00,38,57,7.5,False,evening
+"Las Vegas, United States",36.17497,-115.13722,2022-08-10,09:00:00,31,57,4.8,False,morning
+"Las Vegas, United States",36.17497,-115.13722,2022-08-10,15:00:00,32,57,5.2,False,afternoon
+"Las Vegas, United States",36.17497,-115.13722,2022-08-10,21:00:00,38,57,7.5,False,evening
+"Miami, United States",25.77427,-80.19366,2022-08-10,15:00:00,33,0,17.8,False,afternoon
+"Miami, United States",25.77427,-80.19366,2022-08-10,21:00:00,33,0,17.5,False,evening
+"Miami, United States",25.77427,-80.19366,2022-08-11,09:00:00,32,0,7.2,False,morning
+"New York City, United States",40.71427,-74.00597,2022-08-10,15:00:00,26,15,8.2,False,afternoon
+"New York City, United States",40.71427,-74.00597,2022-08-10,21:00:00,28,15,10.3,False,evening
+"New York City, United States",40.71427,-74.00597,2022-08-11,09:00:00,25,15,4.5,False,morning
+"Brighton, United Kingdom",50.82838,-0.13947,2022-08-10,15:00:00,24,0,17.0,True,afternoon
+"Brighton, United Kingdom",50.82838,-0.13947,2022-08-10,21:00:00,17,0,16.7,True,evening
+"Brighton, United Kingdom",50.82838,-0.13947,2022-08-11,09:00:00,25,0,12.4,True,morning
+"Brighton, United Kingdom",50.82838,-0.13947,2022-08-10,15:00:00,24,0,17.0,True,afternoon
+"Brighton, United Kingdom",50.82838,-0.13947,2022-08-10,21:00:00,17,0,16.7,True,evening
+"Brighton, United Kingdom",50.82838,-0.13947,2022-08-11,09:00:00,25,0,12.4,True,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Stockholm, Sweden",59.32938,18.06871,2022-08-10,15:00:00,23,0,14.9,True,afternoon
+"Stockholm, Sweden",59.32938,18.06871,2022-08-10,21:00:00,18,0,10.0,True,evening
+"Stockholm, Sweden",59.32938,18.06871,2022-08-11,09:00:00,21,0,14.9,True,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,15:00:00,-1,3,9.8,False,afternoon
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-10,21:00:00,0,3,13.4,False,evening
+"Christchurch, New Zealand",-43.53333,172.63333,2022-08-11,09:00:00,0,3,6.6,False,morning
+"London, United Kingdom",51.50853,-0.12574,2022-08-12,15:00:00,28,0,15.2,True,afternoon
+"London, United Kingdom",51.50853,-0.12574,2022-08-12,21:00:00,21,0,12.4,True,evening
+"London, United Kingdom",51.50853,-0.12574,2022-08-13,09:00:00,25,0,8.9,True,morning
+"London, United Kingdom",51.50853,-0.12574,2022-08-12,15:00:00,28,0,15.2,True,afternoon
+"London, United Kingdom",51.50853,-0.12574,2022-08-12,21:00:00,21,0,12.4,True,evening
+"London, United Kingdom",51.50853,-0.12574,2022-08-13,09:00:00,25,0,8.9,True,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,15:00:00,6,9,8.5,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,15:00:00,6,9,8.5,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,15:00:00,5,9,2.7,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,15:00:00,5,9,2.7,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,15:00:00,5,9,2.7,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,15:00:00,5,9,2.7,False,afternoon
+"Edinburgh, United Kingdom",55.95206,-3.19648,2022-08-12,21:00:00,13,0,8.7,True,evening
+"Edinburgh, United Kingdom",55.95206,-3.19648,2022-08-13,09:00:00,17,0,5.1,True,morning
+"Edinburgh, United Kingdom",55.95206,-3.19648,2022-08-13,15:00:00,22,0,12.1,True,afternoon
+"London, United Kingdom",51.50853,-0.12574,2022-08-12,21:00:00,21,0,12.4,True,evening
+"London, United Kingdom",51.50853,-0.12574,2022-08-13,09:00:00,25,0,8.9,True,morning
+"London, United Kingdom",51.50853,-0.12574,2022-08-13,15:00:00,28,0,17.7,True,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,15:00:00,5,9,2.7,False,afternoon
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-12,21:00:00,9,9,9.3,False,evening
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,09:00:00,7,9,5.9,False,morning
+"Auckland, New Zealand",-36.84853,174.76349,2022-08-13,15:00:00,5,9,2.7,False,afternoon
+"Kuala Lumpur, Malaysia",3.1412,101.68653,2022-08-12,21:00:00,27,26,1.7,True,evening
+"Kuala Lumpur, Malaysia",3.1412,101.68653,2022-08-13,09:00:00,32,26,5.5,True,morning
+"Kuala Lumpur, Malaysia",3.1412,101.68653,2022-08-13,15:00:00,29,26,2.7,True,afternoon
+"Valencia, Spain",39.46975,-0.37739,2022-08-12,21:00:00,29,0,5.0,True,evening
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,09:00:00,33,0,5.1,True,morning
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,15:00:00,36,0,5.4,True,afternoon
+"Valencia, Spain",39.46975,-0.37739,2022-08-12,21:00:00,29,0,5.0,True,evening
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,09:00:00,33,0,5.1,True,morning
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,15:00:00,36,0,5.4,True,afternoon
+"Valencia, Spain",39.46975,-0.37739,2022-08-12,21:00:00,29,0,5.0,True,evening
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,09:00:00,33,0,5.1,True,morning
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,15:00:00,36,0,5.4,True,afternoon
+"Valencia, Spain",39.46975,-0.37739,2022-08-12,21:00:00,29,0,5.0,True,evening
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,09:00:00,33,0,5.1,True,morning
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,15:00:00,36,0,5.4,True,afternoon
+"Valencia, Spain",39.46975,-0.37739,2022-08-12,21:00:00,29,0,5.0,True,evening
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,09:00:00,33,0,5.1,True,morning
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,15:00:00,36,0,5.4,True,afternoon
+"Valencia, Spain",39.46975,-0.37739,2022-08-12,21:00:00,29,0,5.0,True,evening
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,09:00:00,33,0,5.1,True,morning
+"Valencia, Spain",39.46975,-0.37739,2022-08-13,15:00:00,36,0,5.4,True,afternoon
