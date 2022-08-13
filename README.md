@@ -1,4 +1,4 @@
-## WEAR_clothes_recommender
+## WEAR Clothes Recommender
 Recommends the clothes to wear depending on the weather and user.
 
 
