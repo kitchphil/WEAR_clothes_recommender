@@ -40,7 +40,7 @@ To use this program, you will need to get an API from breezometer and create an 
 Data was sourced from:
 
 **API : Breezometer** *Weather Information*
-http://insideairbnb.com/get-the-data
+https://www.breezometer.com/products/weather-api
 
 **Geographical Information - Lat & Long**
 https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/information/?disjunctive.cou_name_en&sort=name
