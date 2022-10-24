@@ -33,7 +33,7 @@ for further information about this project please see the presentation: https://
 
 
 ## How To Use
-To use this program, you will need to get an API from breezometer and create an api for "Weather API v1". Once you have the API, you just need to enter it in the file : **test.py** - there are two occasions you will need to insert it
+To use this program, you will need to get an API from breezometer and create an api for "Weather API v1". Once you have the API, you just need to enter it in the file : **Part_2-User_Creation_and_Weather_Prediction.ipynb** - there are two occasions you will need to insert it
 
 
 ## Credits
